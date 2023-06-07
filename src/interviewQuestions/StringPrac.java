@@ -1,4 +1,4 @@
-package basicConcepts;
+package interviewQuestions;
 
 public class StringPrac {
 	public static void main(String[] args) {
