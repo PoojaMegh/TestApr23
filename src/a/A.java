@@ -6,11 +6,11 @@ public class A {
 	static public int y=20;
 	
 	public void setVariable(int x, int y) {
-		this.y = 80;
+	//	this.y = 80;
 	}
 	
 	public static void main(String[] args) {
 		A a = new A();
-		System.out.print(a.x + a.y);
+		System.out.print(a.x);
 	}
 }
