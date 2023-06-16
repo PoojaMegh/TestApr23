@@ -1,4 +1,4 @@
-package test9;
+package test10;
 
 public class ArrayTest1 {
 		
